@@ -1,0 +1,46 @@
+div{
+	display: inline-block;
+	margin: 10px;
+	padding: 5px;
+}
+hr{
+	color: black;
+	size: 2px;
+	width: 250px;
+}
+.una{
+	position: relative;
+	left: 250px;
+}
+.dos{
+	position: relative;
+	left: 250px;
+}
+
+h1{
+	text-align: center;
+}
+.tipo{
+	color: white;
+	font-size:15px;
+	position: absolute;
+	top: 180px;
+}
+#a{
+	left:90px;
+}
+#b{
+	left: 340px;
+}
+#c{
+	left:570px;
+}
+#d{
+	left:100px;
+}
+#e{
+	left:340px;
+}
+#f{
+	left:570px;
+}
